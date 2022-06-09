@@ -1,9 +1,8 @@
-I’m currently a PhD candidate in Civil Engineering and Scientific Computation at University of Michigan. 
+I’m currently a Postdoc Research Fellow in Department of Mechanical Engineering and in Departmetn of Civil and Environmental Engineering at University of Michigan. 
 
-I am currently working on the simulation, design, and fabrication of origami-inspired active structures. 
+My primary research focus is on the simulation, design, and fabrication of origami-inspired functional structures. 
 
-More specifically, I have been working on a multi-physics based simulation framework for active 
-origami and the associated simulation package is made publically available here at GitHub. 
+My GitHub wbspace is for publishing codes I wrote for computational origami, including packages for simulation and inverse-design of functional origami structures with multi-physical behaviors.
 
 Please feel free to reach me at:
 E-mail: yizhucee@umich.edu
