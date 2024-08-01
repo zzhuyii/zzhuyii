@@ -1,4 +1,4 @@
-I’m joining Michigan Tech as an assistant professor in department of Civil, Environmental, and Geospatial Engineering. 
+I’m an assistant professor at Michigan Tech in department of Civil, Environmental, and Geospatial Engineering. 
 
 My primary research focus is on understanding the mechanics behind adaptive reconfiguration of engineered structures like origami systems, soft robots, architected materials, and many others. My work develop simulation methods, inverse design algorithms, and fabrication methods for these adaptive and reconfigurable structures. 
 
